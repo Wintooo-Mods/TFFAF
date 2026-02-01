@@ -21,8 +21,8 @@ public class ModRecipeProvider extends FabricRecipeProvider {
     @Override
     public void generate(Consumer<RecipeJsonProvider> exporter) {
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.COWBOY_SPURS, 1)
-                .pattern("  L")
-                .pattern("LLC")
+                .pattern("  C")
+                .pattern("LC ")
                 .pattern("M  ")
                 .input('C', Items.COPPER_INGOT)
                 .input('L', Items.LEATHER)
@@ -121,6 +121,24 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('M', ModItems.MANASTONE_POWDER)
                 .criterion(hasItem(ModItems.MANASTONE_POWDER), conditionsFromItem(ModItems.MANASTONE_POWDER))
                 .offerTo(exporter, new Identifier(getRecipeName(ModItems.AMETHYST_CHARM)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MOON_CHARM, 1)
+                .pattern(" S ")
+                .pattern("SMS")
+                .pattern(" E ")
+                .input('S', Items.STRING)
+                .input('E', Items.END_STONE)
+                .input('M', ModItems.MANASTONE_POWDER)
+                .criterion(hasItem(ModItems.MANASTONE_POWDER), conditionsFromItem(ModItems.MANASTONE_POWDER))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.MOON_CHARM)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SUN_CHARM, 1)
+                .pattern(" S ")
+                .pattern("SMS")
+                .pattern(" U ")
+                .input('S', Items.STRING)
+                .input('U', Items.SUNFLOWER)
+                .input('M', ModItems.MANASTONE_POWDER)
+                .criterion(hasItem(ModItems.MANASTONE_POWDER), conditionsFromItem(ModItems.MANASTONE_POWDER))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SUN_CHARM)));
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ICICLE_AGLETS, 1)
                 .pattern(" P ")
                 .pattern("PMP")

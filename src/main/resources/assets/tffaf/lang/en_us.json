@@ -46,6 +46,12 @@
   "item.tffaf.amethyst_charm": "Amethyst Charm",
   "text.amethyst_charm": "Gives faster regeneration while low health",
 
+  "item.tffaf.moon_charm": "Moon Charm",
+  "text.moon_charm": "Gives resistance at night while exposed to the sky",
+
+  "item.tffaf.sun_charm": "Sun Charm",
+  "text.sun_charm": "Gives saturation during the day while exposed to the sky",
+
   "item.tffaf.void_pouch": "Void Pouch",
   "text.void_pouch": "A portable ender chest",
 
@@ -65,5 +71,7 @@
   "text.config.tffaf.option.effectLevels.luckyPickaxeHead": "Lucky Pickaxe Head Haste",
   "text.config.tffaf.option.effectLevels.rabbitsCharm": "Rabbit's Charm Jump Boost",
   "text.config.tffaf.option.effectLevels.runningShoes": "Running Shoes Speed",
-  "text.config.tffaf.option.effectLevels.tetheredSoul": "Tethered Soul Absorption"
+  "text.config.tffaf.option.effectLevels.tetheredSoul": "Tethered Soul Absorption",
+  "text.config.tffaf.option.effectLevels.moonCharm": "Moon Charm Resistance",
+  "text.config.tffaf.option.effectLevels.sunCharm": "Sun Charm Saturation"
 }

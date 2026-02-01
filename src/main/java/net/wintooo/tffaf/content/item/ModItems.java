@@ -14,10 +14,6 @@ import net.wintooo.tffaf.content.item.custom.normal.RidersCushion;
 import net.wintooo.tffaf.content.item.custom.normal.VoidPouch;
 import net.wintooo.tffaf.content.item.custom.trinkets.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
-@SuppressWarnings("unused")
 public class ModItems {
     public static final Item MANASTONE_POWDER = register("manastone_powder", new Item(new FabricItemSettings()));
 
@@ -36,11 +32,13 @@ public class ModItems {
     public static final Item WITHER_RING = register("wither_ring", new WitherRing(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
     public static final Item ICICLE_AGLETS = register("icicle_aglets", new IcicleAglets(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
     public static final Item AMETHYST_CHARM = register("amethyst_charm", new AmethystCharm(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
+    public static final Item MOON_CHARM = register("moon_charm", new MoonCharm(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
+    public static final Item SUN_CHARM = register("sun_charm", new SunCharm(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
+
     public static final Item VOID_POUCH = register("void_pouch", new VoidPouch(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
     public static final Item ETERNAL_SANDWICH = register("eternal_sandwich", new EternalSandwich(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
     public static final Item RIDERS_CUSHION = register("riders_cushion", new RidersCushion(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
 
-    public static final List<ItemConvertible> BLACKLIST = new ArrayList<>();
     public static <T extends Item> T register(String name, T item) {
         return Registry.register(Registries.ITEM, TrinketsForFriendsAndFamily.id(name), item);
     }
@@ -62,6 +60,8 @@ public class ModItems {
         entries.add(WITHER_RING);
         entries.add(ICICLE_AGLETS);
         entries.add(AMETHYST_CHARM);
+        entries.add(MOON_CHARM);
+        entries.add(SUN_CHARM);
         entries.add(VOID_POUCH);
         entries.add(ETERNAL_SANDWICH);
         entries.add(RIDERS_CUSHION);

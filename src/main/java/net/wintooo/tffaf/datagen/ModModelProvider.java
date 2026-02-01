@@ -38,6 +38,9 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.WITHER_RING, Models.GENERATED);
         itemModelGenerator.register(ModItems.ICICLE_AGLETS, Models.GENERATED);
         itemModelGenerator.register(ModItems.AMETHYST_CHARM, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MOON_CHARM, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SUN_CHARM, Models.GENERATED);
+
         itemModelGenerator.register(ModItems.VOID_POUCH, Models.GENERATED);
         itemModelGenerator.register(ModItems.ETERNAL_SANDWICH, Models.GENERATED);
         itemModelGenerator.register(ModItems.RIDERS_CUSHION, Models.GENERATED);

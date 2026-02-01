@@ -3,6 +3,8 @@
   "values": [
     "tffaf:rabbits_charm",
     "tffaf:blazing_charm",
-    "tffaf:amethyst_charm"
+    "tffaf:amethyst_charm",
+    "tffaf:moon_charm",
+    "tffaf:sun_charm"
   ]
 }

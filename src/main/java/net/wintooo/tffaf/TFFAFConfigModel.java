@@ -19,5 +19,9 @@ public class TFFAFConfigModel {
         public int runningShoes = 2;
         @RangeConstraint(min = 1, max = 255)
         public int tetheredSoul = 1;
+        @RangeConstraint(min = 1, max = 255)
+        public int moonCharm = 1;
+        @RangeConstraint(min = 1, max = 255)
+        public int sunCharm = 1;
     }
 }
