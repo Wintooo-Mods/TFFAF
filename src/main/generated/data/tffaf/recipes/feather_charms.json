@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    }
+  },
+  "pattern": [
+    "FMF"
+  ],
+  "result": {
+    "item": "tffaf:feather_charms"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "P": {
+      "item": "minecraft:packed_ice"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " P ",
+    "PMP",
+    " S "
+  ],
+  "result": {
+    "item": "tffaf:icicle_aglets"
+  },
+  "show_notification": true
+}

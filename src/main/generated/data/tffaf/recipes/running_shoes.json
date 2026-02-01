@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "S S",
+    "LML"
+  ],
+  "result": {
+    "item": "tffaf:running_shoes"
+  },
+  "show_notification": true
+}

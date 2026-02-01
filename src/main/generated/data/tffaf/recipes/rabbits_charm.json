@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "R": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SMS",
+    " R "
+  ],
+  "result": {
+    "item": "tffaf:rabbits_charm"
+  },
+  "show_notification": true
+}

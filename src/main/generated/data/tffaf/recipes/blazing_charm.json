@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SMS",
+    " F "
+  ],
+  "result": {
+    "item": "tffaf:blazing_charm"
+  },
+  "show_notification": true
+}

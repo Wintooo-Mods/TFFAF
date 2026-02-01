@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_chest"
+    },
+    {
+      "item": "tffaf:manastone_powder"
+    }
+  ],
+  "result": {
+    "item": "tffaf:void_pouch"
+  }
+}

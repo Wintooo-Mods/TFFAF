@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SMS",
+    " A "
+  ],
+  "result": {
+    "item": "tffaf:amethyst_charm"
+  },
+  "show_notification": true
+}

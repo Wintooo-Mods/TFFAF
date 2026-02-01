@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tffaf:deepslate_manastone_ore",
+    "tffaf:manastone_ore",
+    "tffaf:manastone_block"
+  ]
+}

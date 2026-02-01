@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    " N ",
+    "GMG",
+    " G "
+  ],
+  "result": {
+    "item": "tffaf:wither_ring"
+  },
+  "show_notification": true
+}

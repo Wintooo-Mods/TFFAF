@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tffaf:manastone_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tffaf:manastone_powder"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "tffaf:manastone_powder"
+    }
+  ],
+  "result": {
+    "item": "tffaf:tethered_soul"
+  }
+}

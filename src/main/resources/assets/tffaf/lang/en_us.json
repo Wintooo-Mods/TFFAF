@@ -1,0 +1,69 @@
+{
+  "block.tffaf.manastone_block": "Block of Manastone",
+  "block.tffaf.manastone_ore": "Manastone Ore",
+  "block.tffaf.deepslate_manastone_ore": "Deepslate Manastone Ore",
+  "item.tffaf.manastone_powder": "Manastone Powder",
+
+  "item.tffaf.rabbits_charm": "Rabbit's Charm",
+  "text.rabbits_charm": "Permanent Jump Boost and step up",
+
+  "item.tffaf.running_shoes": "Running Shoes",
+  "text.running_shoes": "Speed while running",
+
+  "item.tffaf.icicle_aglets": "Icicle Aglets",
+  "text.icicle_aglets": "Faster speed and less friction",
+
+  "item.tffaf.iron_gauntlet": "Iron Gauntlet",
+  "text.iron_gauntlet": "Permanent strength",
+
+  "item.tffaf.lucky_pickaxe_head": "Lucky Pickaxe Head",
+  "text.lucky_pickaxe_head": "Haste while below y level 35",
+
+  "item.tffaf.feather_charms": "Feather Charms",
+  "text.feather_charms": "Sprint through the air and slow your fall",
+
+  "item.tffaf.old_mining_helmet": "Old Mining Helmet",
+  "text.old_mining_helmet": "Night vision below y level 35 and more speed riding mine carts",
+
+  "item.tffaf.cowboy_spurs": "Cowboy Spurs",
+  "text.cowboy_spurs": "More speed riding animals. Yeehaw!",
+
+  "item.tffaf.eye_patch": "Eye Patch",
+  "text.eye_patch": "More speed riding boats! Yar har!",
+
+  "item.tffaf.fin_cap": "Fin Cap",
+  "text.fin_cap": "Multiplied speed while in swimming",
+
+  "item.tffaf.tethered_soul": "Tethered Soul",
+  "text.tethered_soul": "Gives temporary hearts every thirty seconds",
+
+  "item.tffaf.blazing_charm": "Blazing Charm",
+  "text.blazing_charm": "Extinguishes afterburn",
+
+  "item.tffaf.wither_ring": "Wither-Ring",
+  "text.wither_ring": "Grants full invisibility, but at a cost",
+
+  "item.tffaf.amethyst_charm": "Amethyst Charm",
+  "text.amethyst_charm": "Gives faster regeneration while low health",
+
+  "item.tffaf.void_pouch": "Void Pouch",
+  "text.void_pouch": "A portable ender chest",
+
+  "item.tffaf.eternal_sandwich": "Eternal Sandwich",
+  "text.eternal_sandwich": "Sure, it's eternal.. but it has the protein of sand",
+
+  "item.tffaf.riders_cushion": "Rider's Cushion",
+  "text.riders_cushion": "Allows you to ride anything",
+
+
+
+  "text.config.tffaf.title": "Trinkets for Friends and Family Config",
+
+  "text.config.tffaf.category.effectLevels": "Trinket Effect Levels",
+
+  "text.config.tffaf.option.effectLevels.ironGauntlet": "Iron Gauntlet Strength",
+  "text.config.tffaf.option.effectLevels.luckyPickaxeHead": "Lucky Pickaxe Head Haste",
+  "text.config.tffaf.option.effectLevels.rabbitsCharm": "Rabbit's Charm Jump Boost",
+  "text.config.tffaf.option.effectLevels.runningShoes": "Running Shoes Speed",
+  "text.config.tffaf.option.effectLevels.tetheredSoul": "Tethered Soul Absorption"
+}

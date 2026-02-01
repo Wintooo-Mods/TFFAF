@@ -1,0 +1,20 @@
+package net.wintooo.tffaf.content.screens;
+
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.entity.player.PlayerInventory;
+import net.minecraft.inventory.Inventory;
+import net.minecraft.screen.GenericContainerScreenHandler;
+import net.minecraft.screen.ScreenHandlerType;
+import net.minecraft.sound.SoundCategory;
+import net.minecraft.sound.SoundEvents;
+
+public class VoidPouchScreenHandler extends GenericContainerScreenHandler {
+    public VoidPouchScreenHandler(int syncId, PlayerInventory playerInventory, Inventory inventory) {
+        super(ScreenHandlerType.GENERIC_9X3, syncId, playerInventory, inventory, 3);
+    }
+    @Override
+    public void onClosed(PlayerEntity player) {
+        super.onClosed(player);
+        player.getWorld().playSoundFromEntity(null, player, SoundEvents.BLOCK_ENDER_CHEST_CLOSE, SoundCategory.PLAYERS, 0.5f, player.getRandom().nextFloat() * 0.1f + 0.9f);
+    }
+}

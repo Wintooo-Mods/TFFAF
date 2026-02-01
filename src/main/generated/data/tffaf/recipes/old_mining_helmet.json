@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:iron_helmet"
+    },
+    {
+      "item": "tffaf:manastone_powder"
+    }
+  ],
+  "result": {
+    "item": "tffaf:old_mining_helmet"
+  }
+}

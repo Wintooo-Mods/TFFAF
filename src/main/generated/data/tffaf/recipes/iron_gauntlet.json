@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    }
+  },
+  "pattern": [
+    "IMI",
+    "III",
+    "CCC"
+  ],
+  "result": {
+    "item": "tffaf:iron_gauntlet"
+  },
+  "show_notification": true
+}

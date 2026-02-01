@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    }
+  },
+  "pattern": [
+    "  L",
+    "LLB",
+    "M  "
+  ],
+  "result": {
+    "item": "tffaf:eye_patch"
+  },
+  "show_notification": true
+}

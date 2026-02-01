@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "S": {
+      "item": "minecraft:saddle"
+    }
+  },
+  "pattern": [
+    "RSR",
+    " M "
+  ],
+  "result": {
+    "item": "tffaf:riders_cushion"
+  },
+  "show_notification": true
+}
