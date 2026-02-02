@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "M": {
+      "item": "tffaf:manastone_powder"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SMS",
+    " E "
+  ],
+  "result": {
+    "item": "tffaf:moon_charm"
+  },
+  "show_notification": true
+}
