@@ -1,4 +1,4 @@
-// 1.20.1	2026-02-01T14:51:03.8083384	Trinkets for Friends and Family/Model Definitions
+// 1.20.2	2026-02-02T16:05:43.6717328	Trinkets for Friends and Family/Model Definitions
 b9098c61b93e0d39648d84aa4fd01998c8b51541 assets\tffaf\models\item\running_shoes.json
 d18c3139e7da05dafbc94c03bde01ad01cc442b1 assets\tffaf\models\item\eye_patch.json
 e070b7c24e9237998ab735fda22bd67026dbd95b assets\tffaf\models\item\manastone_block.json
@@ -16,15 +16,15 @@ ebf9e474fb1a4177ae3a4aefff78b2df2a6117b3 assets\tffaf\models\block\deepslate_man
 40dd26c9dd7541315bc387bd5d44e00447809c92 assets\tffaf\models\item\sun_charm.json
 b480f8d38330afa46a59989e1507bf8f88586495 assets\tffaf\models\item\amethyst_charm.json
 b80beb7e31209fa50b773ada1935b2b23ca2237d assets\tffaf\models\block\manastone_ore.json
-bdf6cdb052d2ff12d00d48a0871da7059fca647d assets\tffaf\models\item\tethered_soul.json
 42f8ad92fd887e285f91c5089a603fc7b10ac3d4 assets\tffaf\models\item\feather_charms.json
-a4dbe50e7338750c0c24f5f2574031236839c712 assets\tffaf\models\item\lucky_pickaxe_head.json
+bdf6cdb052d2ff12d00d48a0871da7059fca647d assets\tffaf\models\item\tethered_soul.json
 79c34074a70d3bde7c02c09de62ffe04ecc82131 assets\tffaf\models\item\old_mining_helmet.json
+a4dbe50e7338750c0c24f5f2574031236839c712 assets\tffaf\models\item\lucky_pickaxe_head.json
 6deaf6ffb29fd4600e0243bdf8256ee4a5a1e349 assets\tffaf\blockstates\manastone_block.json
 5723ada321d8ad7342542677e72fcc8a371ed693 assets\tffaf\models\item\manastone_powder.json
 966c6643b752c864a594a47f88f067bf2326afef assets\tffaf\models\item\icicle_aglets.json
 029cb851490743acf86c4d07b6693331a2281235 assets\tffaf\models\item\iron_gauntlet.json
 ef7b6410c77e5f9c7fdb0af74dd1eee13a2cc7a1 assets\tffaf\models\item\blazing_charm.json
-d2a8ea1d0a5e042ef8f03e0b3a9dca8abca62de5 assets\tffaf\models\block\manastone_block.json
-1d125e446b029f7dcf85f0d062de1a8af608d21e assets\tffaf\models\item\riders_cushion.json
 3413bc75fdee3e5345c704ddd3ebe167967d90d3 assets\tffaf\models\item\moon_charm.json
+1d125e446b029f7dcf85f0d062de1a8af608d21e assets\tffaf\models\item\riders_cushion.json
+d2a8ea1d0a5e042ef8f03e0b3a9dca8abca62de5 assets\tffaf\models\block\manastone_block.json
